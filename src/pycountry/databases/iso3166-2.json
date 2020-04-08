@@ -3760,62 +3760,62 @@
     },
     {
       "code": "CN-AH",
-      "name": "Anhui Sheng",
+      "name": "Anhui",
       "type": "Province"
     },
     {
       "code": "CN-BJ",
-      "name": "Beijing Shi",
+      "name": "Beijing",
       "type": "Municipality"
     },
     {
       "code": "CN-CQ",
-      "name": "Chongqing Shi",
+      "name": "Chongqing",
       "type": "Municipality"
     },
     {
       "code": "CN-FJ",
-      "name": "Fujian Sheng",
+      "name": "Fujian",
       "type": "Province"
     },
     {
       "code": "CN-GD",
-      "name": "Guangdong Sheng",
+      "name": "Guangdong",
       "type": "Province"
     },
     {
       "code": "CN-GS",
-      "name": "Gansu Sheng",
+      "name": "Gansu",
       "type": "Province"
     },
     {
       "code": "CN-GX",
-      "name": "Guangxi Zhuangzu Zizhiqu",
+      "name": "Guangxi",
       "type": "Autonomous region"
     },
     {
       "code": "CN-GZ",
-      "name": "Guizhou Sheng",
+      "name": "Guizhou",
       "type": "Province"
     },
     {
       "code": "CN-HA",
-      "name": "Henan Sheng",
+      "name": "Henan",
       "type": "Province"
     },
     {
       "code": "CN-HB",
-      "name": "Hubei Sheng",
+      "name": "Hubei",
       "type": "Province"
     },
     {
       "code": "CN-HE",
-      "name": "Hebei Sheng",
+      "name": "Hebei",
       "type": "Province"
     },
     {
       "code": "CN-HI",
-      "name": "Hainan Sheng",
+      "name": "Hainan",
       "type": "Province"
     },
     {
@@ -3825,32 +3825,32 @@
     },
     {
       "code": "CN-HL",
-      "name": "Heilongjiang Sheng",
+      "name": "Heilongjiang",
       "type": "Province"
     },
     {
       "code": "CN-HN",
-      "name": "Hunan Sheng",
+      "name": "Hunan",
       "type": "Province"
     },
     {
       "code": "CN-JL",
-      "name": "Jilin Sheng",
+      "name": "Jilin",
       "type": "Province"
     },
     {
       "code": "CN-JS",
-      "name": "Jiangsu Sheng",
+      "name": "Jiangsu",
       "type": "Province"
     },
     {
       "code": "CN-JX",
-      "name": "Jiangxi Sheng",
+      "name": "Jiangxi",
       "type": "Province"
     },
     {
       "code": "CN-LN",
-      "name": "Liaoning Sheng",
+      "name": "Liaoning",
       "type": "Province"
     },
     {
@@ -3860,47 +3860,47 @@
     },
     {
       "code": "CN-NM",
-      "name": "Nei Mongol Zizhiqu",
+      "name": "Nei Mongol",
       "type": "Autonomous region"
     },
     {
       "code": "CN-NX",
-      "name": "Ningxia Huizi Zizhiqu",
+      "name": "Ningxia",
       "type": "Autonomous region"
     },
     {
       "code": "CN-QH",
-      "name": "Qinghai Sheng",
+      "name": "Qinghai",
       "type": "Province"
     },
     {
       "code": "CN-SC",
-      "name": "Sichuan Sheng",
+      "name": "Sichuan",
       "type": "Province"
     },
     {
       "code": "CN-SD",
-      "name": "Shandong Sheng",
+      "name": "Shandong",
       "type": "Province"
     },
     {
       "code": "CN-SH",
-      "name": "Shanghai Shi",
+      "name": "Shanghai",
       "type": "Municipality"
     },
     {
       "code": "CN-SN",
-      "name": "Shaanxi Sheng",
+      "name": "Shaanxi",
       "type": "Province"
     },
     {
       "code": "CN-SX",
-      "name": "Shanxi Sheng",
+      "name": "Shanxi",
       "type": "Province"
     },
     {
       "code": "CN-TJ",
-      "name": "Tianjin Shi",
+      "name": "Tianjin",
       "type": "Municipality"
     },
     {
@@ -3910,22 +3910,22 @@
     },
     {
       "code": "CN-XJ",
-      "name": "Xinjiang Uygur Zizhiqu",
+      "name": "Xinjiang",
       "type": "Autonomous region"
     },
     {
       "code": "CN-XZ",
-      "name": "Xizang Zizhiqu",
+      "name": "Xizang",
       "type": "Autonomous region"
     },
     {
       "code": "CN-YN",
-      "name": "Yunnan Sheng",
+      "name": "Yunnan",
       "type": "Province"
     },
     {
       "code": "CN-ZJ",
-      "name": "Zhejiang Sheng",
+      "name": "Zhejiang",
       "type": "Province"
     },
     {
