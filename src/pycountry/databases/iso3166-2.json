@@ -3820,7 +3820,7 @@
     },
     {
       "code": "CN-HK",
-      "name": "Hong Kong SAR (see also separate country code entry under HK)",
+      "name": "Hong Kong",
       "type": "Special administrative region"
     },
     {
@@ -3855,7 +3855,7 @@
     },
     {
       "code": "CN-MO",
-      "name": "Macao SAR (see also separate country code entry under MO)",
+      "name": "Macao",
       "type": "Special administrative region"
     },
     {
@@ -3905,7 +3905,7 @@
     },
     {
       "code": "CN-TW",
-      "name": "Taiwan Sheng (see also separate country code entry under TW)",
+      "name": "Taiwan",
       "type": "Province"
     },
     {
@@ -23362,43 +23362,43 @@
     },
     {
       "code": "TW-CHA",
-      "name": "Changhua",
-      "type": "District"
+      "name": "Changhua County",
+      "type": "County"
     },
     {
       "code": "TW-CYI",
-      "name": "Chiay City",
-      "type": "Municipality"
+      "name": "Chiayi City",
+      "type": "City"
     },
     {
       "code": "TW-CYQ",
-      "name": "Chiayi",
-      "type": "District"
+      "name": "Chiayi County",
+      "type": "County"
     },
     {
       "code": "TW-HSQ",
-      "name": "Hsinchu",
-      "type": "District"
+      "name": "Hsinchu County",
+      "type": "County"
     },
     {
       "code": "TW-HSZ",
       "name": "Hsinchui City",
-      "type": "Municipality"
+      "type": "City"
     },
     {
       "code": "TW-HUA",
-      "name": "Hualien",
-      "type": "District"
+      "name": "Hualien County",
+      "type": "County"
     },
     {
       "code": "TW-ILA",
-      "name": "Ilan",
-      "type": "District"
+      "name": "Yilan County",
+      "type": "County"
     },
     {
       "code": "TW-KEE",
       "name": "Keelung City",
-      "type": "Municipality"
+      "type": "City"
     },
     {
       "code": "TW-KHH",
@@ -23406,44 +23406,39 @@
       "type": "Special Municipality"
     },
     {
-      "code": "TW-KHQ",
-      "name": "Kaohsiung",
-      "type": "District"
-    },
-    {
       "code": "TW-MIA",
-      "name": "Miaoli",
-      "type": "District"
+      "name": "Miaoli County",
+      "type": "County"
     },
     {
       "code": "TW-NAN",
-      "name": "Nantou",
-      "type": "District"
+      "name": "Nantou County",
+      "type": "County"
     },
     {
       "code": "TW-PEN",
-      "name": "Penghu",
-      "type": "District"
+      "name": "Penghu County",
+      "type": "County"
     },
     {
       "code": "TW-PIF",
-      "name": "Pingtung",
-      "type": "District"
+      "name": "Pingtung County",
+      "type": "County"
     },
     {
       "code": "TW-TAO",
-      "name": "Taoyuan",
-      "type": "District"
+      "name": "Taoyuan City",
+      "type": "Special Municipality"
     },
     {
       "code": "TW-TNN",
       "name": "Tainan City",
-      "type": "Municipality"
+      "type": "Special Municipality"
     },
     {
       "code": "TW-TNQ",
-      "name": "Tainan",
-      "type": "District"
+      "name": "Tainan City",
+      "type": "Special Municipality"
     },
     {
       "code": "TW-TPE",
@@ -23451,29 +23446,34 @@
       "type": "Special Municipality"
     },
     {
-      "code": "TW-TPQ",
-      "name": "Taipei",
-      "type": "District"
+      "code": "TW-NWT",
+      "name": "New Taipei City",
+      "type": "Special Municipality"
     },
     {
       "code": "TW-TTT",
-      "name": "Taitung",
-      "type": "District"
+      "name": "Taitung County",
+      "type": "County"
     },
     {
       "code": "TW-TXG",
       "name": "Taichung City",
-      "type": "Municipality"
-    },
-    {
-      "code": "TW-TXQ",
-      "name": "Taichung",
-      "type": "District"
+      "type": "Special Municipality"
     },
     {
       "code": "TW-YUN",
-      "name": "Yunlin",
-      "type": "District"
+      "name": "Yunlin County",
+      "type": "County"
+    },
+    {
+      "code": "TW-KIN",
+      "name": "Kinmen County",
+      "type": "County"
+    },
+    {
+      "code": "TW-LIE",
+      "name": "Lienchiang County",
+      "type": "County"
     },
     {
       "code": "TZ-01",
