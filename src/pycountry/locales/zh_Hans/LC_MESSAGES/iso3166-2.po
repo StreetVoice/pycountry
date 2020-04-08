@@ -1,0 +1,1456 @@
+msgid ""
+msgstr "Project-Id-Version: iso_3166_2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth.debian.org>\n"
+"POT-Creation-Date: 2012-08-25 16:22+0200\n"
+"PO-Revision-Date: 2013-06-14 23:29+0800\n"
+"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+""
+
+msgid "'Adan"
+msgstr "艾达"
+
+msgid "A Coruña"
+msgstr "拉科鲁纳"
+
+msgid "Adana"
+msgstr "亚达纳"
+
+msgid "Adrar"
+msgstr "阿德拉"
+
+msgid "Agadez"
+msgstr "阿加岱"
+
+msgid "Akita"
+msgstr "秋田"
+
+msgid "Al Fujayrah"
+msgstr "富查伊拉"
+
+msgid "Alabama"
+msgstr "阿拉巴马"
+
+msgid "Alagoas"
+msgstr "阿拉哥亚斯"
+
+msgid "Alajuela"
+msgstr "阿拉惠拉"
+
+msgid "Alaska"
+msgstr "阿拉斯加"
+
+msgid "Alberta"
+msgstr "亚伯达"
+
+msgid "Alicante"
+msgstr "亚利坎提"
+
+msgid "Almaty"
+msgstr "拉木图"
+
+msgid "Almería"
+msgstr "阿美里亚"
+
+msgid "Amapá"
+msgstr "阿马帕"
+
+msgid "Amazonas"
+msgstr "亚马孙纳斯"
+
+msgid "American Samoa"
+msgstr "美属萨摩亚"
+
+msgid "Anhui"
+msgstr "安徽"
+
+msgid "Ankara"
+msgstr "安卡拉"
+
+msgid "Annaba"
+msgstr "亚拿巴"
+
+msgid "Antalya"
+msgstr "安塔利亚"
+
+msgid "Antananarivo"
+msgstr "安塔那那利佛"
+
+msgid "Antofagasta"
+msgstr "安多法加斯大"
+
+msgid "Antsiranana"
+msgstr "安齐拉纳纳"
+
+msgid "Aomen (Macau)"
+msgstr "澳门"
+
+msgid "Aomori"
+msgstr "青森"
+
+msgid "Arad"
+msgstr "阿拉德"
+
+msgid "Arequipa"
+msgstr "阿雷奇帕"
+
+msgid "Arizona"
+msgstr "亚利桑那"
+
+msgid "Arkansas"
+msgstr "阿肯色"
+
+msgid "Arua"
+msgstr "阿鲁亚"
+
+msgid "Arusha"
+msgstr "阿鲁忧"
+
+msgid "Astana"
+msgstr "阿斯塔纳"
+
+msgid "Asunción"
+msgstr "亚松森"
+
+msgid "Auckland"
+msgstr "奥克兰"
+
+msgid "Australian Capital Territory"
+msgstr "澳洲首都领地"
+
+msgid "Ayacucho"
+msgstr "阿雅库乔"
+
+msgid "Bacău"
+msgstr "巴考"
+
+msgid "Baden-Württemberg"
+msgstr "巴登坦柏"
+
+msgid "Baja California"
+msgstr "下加利福尼亚"
+
+msgid "Baja California Sur"
+msgstr "南下加利福尼亚"
+
+msgid "Bangui"
+msgstr "班基"
+
+msgid "Banjul"
+msgstr "斑竹"
+
+msgid "Barahona"
+msgstr "巴拉奥纳"
+
+msgid "Bari"
+msgstr "巴利"
+
+msgid "Barinas"
+msgstr "巴里纳斯"
+
+msgid "Batna"
+msgstr "巴特纳"
+
+msgid "Beijing"
+msgstr "北京"
+
+msgid "Beja"
+msgstr "贝惹"
+
+msgid "Belfast"
+msgstr "伯发斯特"
+
+msgid "Belize"
+msgstr "贝里斯"
+
+msgid "Bergamo"
+msgstr "柏加摩"
+
+msgid "Bern"
+msgstr "伯恩"
+
+msgid "Bishkek"
+msgstr "比甚凯克"
+
+msgid "Biskra"
+msgstr "比斯克拉"
+
+msgid "Bizerte"
+msgstr "比塞大"
+
+msgid "Blackpool"
+msgstr "黑潭"
+
+msgid "Boa Vista"
+msgstr "保维斯塔"
+
+msgid "Bologna"
+msgstr "波隆纳"
+
+msgid "Bolzano"
+msgstr "波尔察诺"
+
+msgid "Bournemouth"
+msgstr "波茅斯"
+
+msgid "Bradford"
+msgstr "布拉福"
+
+msgid "Brandenburg"
+msgstr "勃兰登堡"
+
+msgid "Brazzaville"
+msgstr "布拉萨市"
+
+msgid "Brescia"
+msgstr "布雷沙"
+
+msgid "Brindisi"
+msgstr "布林底希"
+
+msgid "British Columbia"
+msgstr "不列颠哥伦比亚"
+
+msgid "Budapest"
+msgstr "布达佩斯"
+
+msgid "Buenos Aires"
+msgstr "布宜诺赛利斯"
+
+msgid "Burdur"
+msgstr "布尔都"
+
+msgid "Burgas"
+msgstr "布尔加斯"
+
+msgid "Bursa"
+msgstr "柏沙"
+
+msgid "Cagliari"
+msgstr "卡拉里"
+
+msgid "California"
+msgstr "加利福尼亚"
+
+msgid "Camagüey"
+msgstr "卡马瓜"
+
+msgid "Camden"
+msgstr "康登"
+
+msgid "Cascade"
+msgstr "喀斯开"
+
+msgid "Castelo Branco"
+msgstr "加斯德卢布朗科"
+
+msgid "Catania"
+msgstr "卡塔尼亚"
+
+msgid "Ceará"
+msgstr "西阿拉"
+
+msgid "Changhua"
+msgstr "彰化"
+
+msgid "Chiang Mai"
+msgstr "清迈"
+
+msgid "Chiapas"
+msgstr "嘉帕斯"
+
+msgid "Chiay City"
+msgstr "嘉义市"
+
+msgid "Chiayi"
+msgstr "嘉义"
+
+msgid "Chinandega"
+msgstr "奇南德加"
+
+msgid "Chlef"
+msgstr "谢莱夫"
+
+msgid "Chon Buri"
+msgstr "琼布里"
+
+msgid "Chongqing"
+msgstr "重庆"
+
+msgid "Cienfuegos"
+msgstr "西恩菲哥斯"
+
+msgid "Coahuila"
+msgstr "科亚维拉"
+
+msgid "Cochabamba"
+msgstr "科洽班巴"
+
+msgid "Colonia"
+msgstr "科隆尼亚"
+
+msgid "Colorado"
+msgstr "科罗拉多"
+
+msgid "Comayagua"
+msgstr "利马雅瓜"
+
+msgid "Conakry"
+msgstr "柯那克里"
+
+msgid "Connecticut"
+msgstr "康乃狄格"
+
+msgid "Constantine"
+msgstr "君士坦丁"
+
+msgid "Cork"
+msgstr "科克"
+
+msgid "Corrientes"
+msgstr "科林特斯"
+
+msgid "Coventry"
+msgstr "科芬特里"
+
+msgid "Crotone"
+msgstr "克罗登"
+
+msgid "Cuneo"
+msgstr "库尼奥"
+
+msgid "Dakar"
+msgstr "达卡"
+
+msgid "Darlington"
+msgstr "大令顿"
+
+msgid "Dayr az Zawr"
+msgstr "德利索尔"
+
+msgid "Debrecen"
+msgstr "德布勒森"
+
+msgid "Delaware"
+msgstr "德拉瓦"
+
+msgid "Delhi"
+msgstr "德里"
+
+msgid "Delta"
+msgstr "德尔塔"
+
+msgid "District of Columbia"
+msgstr "哥伦比亚特区"
+
+msgid "Djibouti"
+msgstr "吉布地"
+
+msgid "Dodoma"
+msgstr "杜笃玛"
+
+msgid "Durazno"
+msgstr "杜拉兹诺"
+
+msgid "Erzurum"
+msgstr "艾斯伦"
+
+msgid "Espírito Santo"
+msgstr "圣林城"
+
+msgid "Faro"
+msgstr "法洛"
+
+msgid "Fernando de Noronha"
+msgstr "菲南多岛"
+
+msgid "Ferrara"
+msgstr "菲拉拉"
+
+msgid "Florida"
+msgstr "弗罗里达"
+
+msgid "Fontana"
+msgstr "芳塔纳"
+
+msgid "Formosa"
+msgstr "福摩沙"
+
+msgid "Frosinone"
+msgstr "夫罗西诺尼"
+
+msgid "Fujian"
+msgstr "福建"
+
+msgid "Fukuoka"
+msgstr "福冈"
+
+msgid "Funafuti"
+msgstr "富纳富提"
+
+msgid "Gafsa"
+msgstr "加夫沙"
+
+msgid "Gansu"
+msgstr "甘肃"
+
+msgid "Gaziantep"
+msgstr "加吉安特"
+
+msgid "Georgia"
+msgstr "乔治亚"
+
+msgid "Ghanzi"
+msgstr "干西"
+
+msgid "Gifu"
+msgstr "岐阜"
+
+msgid "Gilbert Islands"
+msgstr "吉伯特群岛"
+
+msgid "Goiás"
+msgstr "哥亚斯"
+
+msgid "Granada"
+msgstr "格瑞那达"
+
+msgid "Groningen"
+msgstr "格罗宁根"
+
+msgid "Grosseto"
+msgstr "格洛瑟托"
+
+msgid "Guadalajara"
+msgstr "瓜达拉哈拉"
+
+msgid "Guadeloupe"
+msgstr "瓜地洛普"
+
+msgid "Guam"
+msgstr "关岛"
+
+msgid "Guanajuato"
+msgstr "瓜纳华托"
+
+msgid "Guangdong"
+msgstr "广东"
+
+msgid "Guangxi"
+msgstr "广西"
+
+msgid "Guantánamo"
+msgstr "关塔那木"
+
+msgid "Guatemala"
+msgstr "瓜地马拉"
+
+msgid "Guerrero"
+msgstr "格瑞罗"
+
+msgid "Guizhou"
+msgstr "贵州"
+
+msgid "Hainan"
+msgstr "海南"
+
+msgid "Hainaut"
+msgstr "海诺"
+
+msgid "Hawaii"
+msgstr "夏威夷"
+
+msgid "Hebei"
+msgstr "河北"
+
+msgid "Heilongjiang"
+msgstr "黑龙江"
+
+msgid "Henan"
+msgstr "河南"
+
+msgid "Hidalgo"
+msgstr "希达哥"
+
+msgid "Hiroshima"
+msgstr "广岛"
+
+msgid "Holguín"
+msgstr "欧尔根"
+
+msgid "Hsinchu"
+msgstr "新竹"
+
+msgid "Hsinchu"
+msgstr "新竹"
+
+msgid "Hualien"
+msgstr "花莲"
+
+msgid "Hubei"
+msgstr "湖北"
+
+msgid "Huehuetenango"
+msgstr "威威特南哥"
+
+msgid "Hunan"
+msgstr "湖南"
+
+msgid "Idaho"
+msgstr "爱达荷"
+
+msgid "Yilan"
+msgstr "宜兰"
+
+msgid "Illinois"
+msgstr "伊利诺"
+
+msgid "Illizi"
+msgstr "伊利吉"
+
+msgid "Iowa"
+msgstr "爱阿华"
+
+msgid "Iringa"
+msgstr "伊林加"
+
+msgid "Islamabad"
+msgstr "伊斯兰马巴德"
+
+msgid "Jalisco"
+msgstr "哈利斯科"
+
+msgid "Jendouba"
+msgstr "坚杜拜"
+
+msgid "Jiangsu"
+msgstr "江苏"
+
+msgid "Jiangxi"
+msgstr "江西"
+
+msgid "Jilin"
+msgstr "吉林"
+
+msgid "Jinotega"
+msgstr "希诺提加"
+
+msgid "Kabale"
+msgstr "卡巴雷"
+
+msgid "Kaduna"
+msgstr "卡杜纳"
+
+msgid "Kagoshima"
+msgstr "鹿儿岛"
+
+msgid "Kairouan"
+msgstr "凯鲁万"
+
+msgid "Kampala"
+msgstr "坎帕拉"
+
+msgid "Kano"
+msgstr "卡诺"
+
+msgid "Kansas"
+msgstr "堪萨斯"
+
+msgid "Kaohsiung"
+msgstr "高雄"
+
+msgid "Karlovy Vary"
+msgstr "卡罗维瓦立"
+
+msgid "Kars"
+msgstr "卡斯"
+
+msgid "Kayseri"
+msgstr "开瑟里"
+
+msgid "Kecskemét"
+msgstr "克赤克美"
+
+msgid "Keelung"
+msgstr "基隆"
+
+msgid "Kentucky"
+msgstr "肯塔基"
+
+msgid "Khon Kaen"
+msgstr "孔敬"
+
+msgid "Kigoma"
+msgstr "基哥马"
+
+msgid "Kinmen"
+msgstr "金门"
+
+msgid "Kinshasa"
+msgstr "金夏沙"
+
+msgid "Kochi"
+msgstr "高知"
+
+msgid "Konya"
+msgstr "康雅"
+
+msgid "Koror"
+msgstr "科罗尔"
+
+msgid "Kumamoto"
+msgstr "熊本"
+
+msgid "La Romana"
+msgstr "罗马纳"
+
+msgid "Laghouat"
+msgstr "拉格瓦特"
+
+msgid "Lampang"
+msgstr "南邦"
+
+msgid "Lara"
+msgstr "拉阿"
+
+msgid "Latina"
+msgstr "拉丁纳"
+
+msgid "Lecce"
+msgstr "雷契"
+
+msgid "Leeds"
+msgstr "里玆"
+
+msgid "Liaoning"
+msgstr "辽宁"
+
+msgid "Liberec"
+msgstr "利柏雷治"
+
+msgid "Lienchiang"
+msgstr "连江"
+
+msgid "Liepāja"
+msgstr "利帕雅"
+
+msgid "Limburg"
+msgstr "林堡"
+
+msgid "Line Islands"
+msgstr "莱恩群岛"
+
+msgid "Ljubljana"
+msgstr "卢布尔雅那"
+
+msgid "Loreto"
+msgstr "罗雷托"
+
+msgid "Louisiana"
+msgstr "路易斯安那"
+
+msgid "Luqa"
+msgstr "鲁卡"
+
+msgid "Lusaka"
+msgstr "路沙卡"
+
+msgid "Luton"
+msgstr "卢顿"
+
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+msgid "Ma'rib"
+msgstr "马里布"
+
+msgid "Madrid"
+msgstr "马德里"
+
+msgid "Macao"
+msgstr "澳门"
+
+msgid "Mae Hong Son"
+msgstr "湄宏顺"
+
+msgid "Magdalena"
+msgstr "马达利纳"
+
+msgid "Mahajanga"
+msgstr "马哈赞加"
+
+msgid "Maine"
+msgstr "缅因"
+
+msgid "Majuro"
+msgstr "马久罗"
+
+msgid "Malatya"
+msgstr "马拉特雅"
+
+msgid "Maldonado"
+msgstr "马多纳多"
+
+msgid "Male"
+msgstr "马烈"
+
+msgid "Mali"
+msgstr "马利"
+
+msgid "Managua"
+msgstr "马拿瓜"
+
+msgid "Manitoba"
+msgstr "曼尼托巴"
+
+msgid "Manzini"
+msgstr "曼玆尼"
+
+msgid "Maputo"
+msgstr "马布多"
+
+msgid "Maranhão"
+msgstr "马兰约"
+
+msgid "Maribor"
+msgstr "马里包"
+
+msgid "Martinique"
+msgstr "马丁尼克"
+
+msgid "Maryland"
+msgstr "马利兰"
+
+msgid "Masbate"
+msgstr "马斯巴提"
+
+msgid "Mascara"
+msgstr "马斯卡拉"
+
+msgid "Massachusetts"
+msgstr "麻萨诸塞"
+
+msgid "Matanzas"
+msgstr "马坦萨斯"
+
+msgid "Mayo"
+msgstr "梅欧"
+
+msgid "Mayotte"
+msgstr "马约特"
+
+msgid "Mbeya"
+msgstr "木贝雅"
+
+msgid "Melaka"
+msgstr "麻六甲"
+
+msgid "Melilla"
+msgstr "美利拉"
+
+msgid "Mendoza"
+msgstr "门多萨"
+
+msgid "Messina"
+msgstr "美西纳"
+
+msgid "Miaoli"
+msgstr "苗栗"
+
+msgid "Michigan"
+msgstr "密西根"
+
+msgid "Michoacán"
+msgstr "密乔康"
+
+msgid "Midlands"
+msgstr "密德兰斯"
+
+msgid "Midlothian"
+msgstr "密德罗申"
+
+msgid "Midway Islands"
+msgstr "中途群岛"
+
+msgid "Minas Gerais"
+msgstr "美纳斯"
+
+msgid "Minnesota"
+msgstr "明尼苏达"
+
+msgid "Mississippi"
+msgstr "密士失必"
+
+msgid "Missouri"
+msgstr "密苏里"
+
+msgid "Miyazaki"
+msgstr "宫崎"
+
+msgid "Monastir"
+msgstr "莫纳斯提"
+
+msgid "Montana"
+msgstr "蒙大拿"
+
+msgid "Morelos"
+msgstr "摩雷洛斯"
+
+msgid "Morogoro"
+msgstr "摩洛哥罗"
+
+msgid "Mtwara"
+msgstr "木特瓦拉"
+
+msgid "Mwanza"
+msgstr "木宛札"
+
+msgid "Málaga"
+msgstr "马拉加"
+
+msgid "México"
+msgstr "墨西哥"
+
+msgid "Nador"
+msgstr "纳多尔"
+
+msgid "Nagasaki"
+msgstr "长崎"
+
+msgid "Namur"
+msgstr "南木尔"
+
+msgid "Nan"
+msgstr "难镇"
+
+msgid "Nantou"
+msgstr "南投"
+
+msgid "Nayarit"
+msgstr "纳雅里特"
+
+msgid "Nebraska"
+msgstr "内布拉斯加"
+
+msgid "Nei Mongol"
+msgstr "内蒙古"
+
+msgid "Neuchâtel"
+msgstr "纳沙泰尔"
+
+msgid "Nevada"
+msgstr "内华达"
+
+msgid "New Brunswick"
+msgstr "新布蓝玆维"
+
+msgid "New Hampshire"
+msgstr "新罕布夏"
+
+msgid "New Jersey"
+msgstr "新泽西"
+
+msgid "New Mexico"
+msgstr "新墨西哥"
+
+msgid "New South Wales"
+msgstr "新南威尔士"
+
+msgid "Newfoundland and Labrador"
+msgstr "纽芬兰与拉布拉多"
+
+msgid "Niamey"
+msgstr "尼阿美"
+
+msgid "Niger"
+msgstr "尼日"
+
+msgid "Niigata"
+msgstr "新潟"
+
+msgid "Ningxia"
+msgstr "宁夏"
+
+msgid "North Carolina"
+msgstr "北卡罗来纳"
+
+msgid "North Dakota"
+msgstr "北达科他"
+
+msgid "Northern Ireland"
+msgstr "北爱尔兰"
+
+msgid "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
+
+msgid "Northern Territory"
+msgstr "北领土"
+
+msgid "Northwest Territories"
+msgstr "西北领土"
+
+msgid "Nouakchott"
+msgstr "诺克少"
+
+msgid "Nova Scotia"
+msgstr "新斯科细亚"
+
+msgid "Nuevo León"
+msgstr "新雷昂"
+
+msgid "Nunavut"
+msgstr "纽纳武特"
+
+msgid "Ohio"
+msgstr "俄亥俄"
+
+msgid "Ohrid"
+msgstr "奥克里德"
+
+msgid "Oita"
+msgstr "大分"
+
+msgid "Okayama"
+msgstr "冈山"
+
+msgid "Oklahoma"
+msgstr "俄克拉荷马"
+
+msgid "Oran"
+msgstr "奥伦"
+
+msgid "Oregon"
+msgstr "俄勒冈"
+
+msgid "Oruro"
+msgstr "奥鲁洛"
+
+msgid "Osaka"
+msgstr "大坂"
+
+msgid "Oslo"
+msgstr "奥斯陆"
+
+msgid "Ouargla"
+msgstr "瓦格拉"
+
+msgid "Palermo"
+msgstr "巴勒摩"
+
+msgid "Panamá"
+msgstr "巴拿马"
+
+msgid "Paramaribo"
+msgstr "巴拉马利波"
+
+msgid "Paraná"
+msgstr "巴拉那"
+
+msgid "Paraíba"
+msgstr "帕拉伊巴"
+
+msgid "Parma"
+msgstr "帕马"
+
+msgid "Pasco"
+msgstr "帕斯科"
+
+msgid "Pella"
+msgstr "佩拉"
+
+msgid "Penghu"
+msgstr "澎湖"
+
+msgid "Pennsylvania"
+msgstr "宾夕法尼亚"
+
+msgid "Perugia"
+msgstr "珀鲁加"
+
+msgid "Pescara"
+msgstr "佩斯卡拉"
+
+msgid "Peterborough"
+msgstr "彼得波罗"
+
+msgid "Phnom Penh"
+msgstr "金边"
+
+msgid "Phoenix Islands"
+msgstr "费尼克斯岛  \t"
+
+msgid "Phrae"
+msgstr "非拉"
+
+msgid "Phuket"
+msgstr "普吉岛"
+
+msgid "Piacenza"
+msgstr "皮辰札"
+
+msgid "Piauí"
+msgstr "皮奥伊"
+
+msgid "Pingtung"
+msgstr "屏东"
+
+msgid "Pisa"
+msgstr "比萨"
+
+msgid "Plaisance"
+msgstr "普莱三斯"
+
+msgid "Plovdiv"
+msgstr "普洛第夫"
+
+msgid "Podgorica"
+msgstr "波多里察"
+
+msgid "Port Louis"
+msgstr "路易士港"
+
+msgid "Potosí"
+msgstr "波多西"
+
+msgid "Prince Edward Island"
+msgstr "爱德华太子岛"
+
+msgid "Puerto Plata"
+msgstr "普拉塔港"
+
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+msgid "Pécs"
+msgstr "佩科斯"
+
+msgid "Qinghai"
+msgstr "青海"
+
+msgid "Queensland"
+msgstr "昆士兰"
+
+msgid "Quintana Roo"
+msgstr "琴塔纳罗"
+
+msgid "Rabat"
+msgstr "拉巴特"
+
+msgid "Ranong"
+msgstr "拉廊"
+
+msgid "Rayong"
+msgstr "拉勇"
+
+msgid "Reading"
+msgstr "里丁"
+
+msgid "Retalhuleu"
+msgstr "雷塔卢莱乌"
+
+msgid "Reykjavík"
+msgstr "雷克雅维克"
+
+msgid "Rhode Island"
+msgstr "罗得岛"
+
+msgid "Rieti"
+msgstr "里提"
+
+msgid "Rimini"
+msgstr "林米尼"
+
+msgid "Rivas"
+msgstr "里瓦斯"
+
+msgid "Rondônia"
+msgstr "隆多尼亚"
+
+msgid "Rutland"
+msgstr "鲁特兰"
+
+msgid "Réunion"
+msgstr "留尼旺"
+
+msgid "Rīga"
+msgstr "里加"
+
+msgid "Saarland"
+msgstr "萨尔兰"
+
+msgid "Saga"
+msgstr "佐贺"
+
+msgid "Saint John"
+msgstr "圣约翰"
+
+msgid "Saint Joseph"
+msgstr "圣约瑟"
+
+msgid "Saint Paul"
+msgstr "圣保罗"
+
+msgid "Saint-Louis"
+msgstr "圣路易斯"
+
+msgid "Salamanca"
+msgstr "沙拉曼卡"
+
+msgid "Salta"
+msgstr "沙尔塔"
+
+msgid "Salzburg"
+msgstr "萨尔堡"
+
+msgid "Samarqand"
+msgstr "撒马尔罕"
+
+msgid "Samsun"
+msgstr "桑孙"
+
+msgid "San José"
+msgstr "圣约瑟"
+
+msgid "San Juan"
+msgstr "圣胡安"
+
+msgid "San Marcos"
+msgstr "圣马可斯"
+
+msgid "San Marino"
+msgstr "圣马利诺"
+
+msgid "San Salvador"
+msgstr "圣萨尔瓦多"
+
+msgid "Santa Ana"
+msgstr "圣安纳"
+
+msgid "Santa Bárbara"
+msgstr "圣巴巴拉"
+
+msgid "Santa Catarina"
+msgstr "圣卡塔琳娜"
+
+msgid "Santa Cruz"
+msgstr "圣克鲁兹"
+
+msgid "Santa Fe"
+msgstr "圣塔非"
+
+msgid "Santa Rosa"
+msgstr "圣罗沙"
+
+msgid "Santander"
+msgstr "圣坦德"
+
+msgid "Santarém"
+msgstr "桑塔林"
+
+msgid "Santiago de Cuba"
+msgstr "圣地牙哥古巴"
+
+msgid "Saskatchewan"
+msgstr "萨克其万"
+
+msgid "Satu Mare"
+msgstr "沙土马勒"
+
+msgid "Schleswig-Holstein"
+msgstr "什列斯威荷斯坦"
+
+msgid "Scotland"
+msgstr "苏格兰"
+
+msgid "Sfax"
+msgstr "斯法克斯"
+
+msgid "Shaanxi"
+msgstr "陕西"
+
+msgid "Shandong"
+msgstr "山东"
+
+msgid "Shanghai"
+msgstr "上海"
+
+msgid "Shanxi"
+msgstr "山西"
+
+msgid "Sibiu"
+msgstr "西比由"
+
+msgid "Sichuan"
+msgstr "四川"
+
+msgid "Sikkim"
+msgstr "锡金"
+
+msgid "Sinaloa"
+msgstr "西纳洛亚"
+
+msgid "Sofia"
+msgstr "索非亚"
+
+msgid "Somerset"
+msgstr "索美列斯特"
+
+msgid "South Australia"
+msgstr "南澳大利亚"
+
+msgid "South Carolina"
+msgstr "南卡罗来纳"
+
+msgid "South Dakota"
+msgstr "南达科他"
+
+msgid "Southampton"
+msgstr "南安普敦"
+
+msgid "Suceava"
+msgstr "苏恰瓦"
+
+msgid "Sucre"
+msgstr "苏克雷"
+
+msgid "Suffolk"
+msgstr "苏佛克"
+
+msgid "Surat Thani"
+msgstr "素叻他尼"
+
+msgid "Szeged"
+msgstr "塞革德"
+
+msgid "Szolnok"
+msgstr "索诺克"
+
+msgid "Tabasco"
+msgstr "塔巴斯科"
+
+msgid "Tabora"
+msgstr "塔波拉"
+
+msgid "Tacna"
+msgstr "塔克纳"
+
+msgid "Taichung"
+msgstr "台中"
+
+msgid "Tainan"
+msgstr "台南"
+
+msgid "Taipei"
+msgstr "台北"
+
+msgid "New Taipei"
+msgstr "新北"
+
+msgid "Taitung"
+msgstr "台东"
+
+msgid "Taiwan"
+msgstr "台湾"
+
+msgid "Tamaulipas"
+msgstr "塔茅利帕"
+
+msgid "Tambacounda"
+msgstr "坦巴孔达"
+
+msgid "Taoyuan"
+msgstr "桃园"
+
+msgid "Tarija"
+msgstr "塔利哈"
+
+msgid "Tasmania"
+msgstr "塔斯马尼亚"
+
+msgid "Tennessee"
+msgstr "田纳西"
+
+msgid "Texas"
+msgstr "德克萨斯"
+
+msgid "Tianjin"
+msgstr "天津"
+
+msgid "Tiaret"
+msgstr "提亚"
+
+msgid "Tindouf"
+msgstr "廷杜夫"
+
+msgid "Tivat"
+msgstr "Tivat"
+
+msgid "Tlaxcala"
+msgstr "特拉克斯卡拉"
+
+msgid "Tlemcen"
+msgstr "特兰森"
+
+msgid "Tocantins"
+msgstr "托坎廷斯"
+
+msgid "Tokyo"
+msgstr "东京"
+
+msgid "Toledo"
+msgstr "托利多"
+
+msgid "Tottori"
+msgstr "鸟取"
+
+msgid "Toyama"
+msgstr "富山"
+
+msgid "Tozeur"
+msgstr "托苏尔"
+
+msgid "Trabzon"
+msgstr "特拉比松"
+
+msgid "Trang"
+msgstr "特朗"
+
+msgid "Trapani"
+msgstr "特拉帕尼"
+
+msgid "Treviso"
+msgstr "翠维索"
+
+msgid "Trieste"
+msgstr "的港"
+
+msgid "Trujillo"
+msgstr "楚吉约"
+
+msgid "Tulcea"
+msgstr "土尔查"
+
+msgid "Tumbes"
+msgstr "屯贝斯"
+
+msgid "Tunis"
+msgstr "突尼斯"
+
+msgid "Ubon Ratchathani"
+msgstr "乌汶"
+
+msgid "Udon Thani"
+msgstr "乌隆"
+
+msgid "United Kingdom"
+msgstr "英国"
+
+msgid "United States Minor Outlying Islands"
+msgstr "美属边疆群岛"
+
+msgid "Utah"
+msgstr "犹他"
+
+msgid "Vaduz"
+msgstr "瓦杜兹"
+
+msgid "Valletta"
+msgstr "法勒他"
+
+msgid "Van"
+msgstr "凡城"
+
+msgid "Varna"
+msgstr "瓦纳"
+
+msgid "Vermont"
+msgstr "佛蒙特"
+
+msgid "Verona"
+msgstr "维洛纳"
+
+msgid "Vientiane"
+msgstr "永珍"
+
+msgid "Virginia"
+msgstr "维吉尼亚"
+
+msgid "Viterbo"
+msgstr "维特波"
+
+msgid "Wake Island"
+msgstr "威克岛"
+
+msgid "Wakefield"
+msgstr "威克菲"
+
+msgid "Wales"
+msgstr "威尔斯"
+
+msgid "Wellington"
+msgstr "威灵顿"
+
+msgid "West Virginia"
+msgstr "西维吉尼亚"
+
+msgid "Western Australia"
+msgstr "西澳大利亚"
+
+msgid "Westminster"
+msgstr "威敏斯特"
+
+msgid "Wisconsin"
+msgstr "威斯康辛"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "Xinjiang"
+msgstr "新疆"
+
+msgid "Xizang"
+msgstr "西藏"
+
+msgid "Yamagata"
+msgstr "山形"
+
+msgid "Yamaguchi"
+msgstr "山口"
+
+msgid "Yazd"
+msgstr "雅兹德"
+
+msgid "Yoro"
+msgstr "约罗"
+
+msgid "Yucatán"
+msgstr "犹加敦"
+
+msgid "Yukon Territory"
+msgstr "育空领地"
+
+msgid "Yunlin"
+msgstr "云林"
+
+msgid "Yunnan"
+msgstr "云南"
+
+msgid "Zaragoza"
+msgstr "札拉哥沙"
+
+msgid "Zhejiang"
+msgstr "浙江"
+
+msgid "Ziguinchor"
+msgstr "济衮秀"
+
+msgid "Zinder"
+msgstr "津德尔"
+
+msgid "Zürich"
+msgstr "苏黎世"
